@@ -1,0 +1,7 @@
+git init
+git clone <url>
+git add .
+git commit -m "xxxx"
+git remote add origin <url>
+git git pull origin master --allow-unrelated-histories------>>>fatal: refusing to merge unrelated histories<<<------
+git push -u orgin master
